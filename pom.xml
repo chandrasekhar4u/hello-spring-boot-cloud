@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>io.uslab</groupId>
-	<artifactId>hello-spring-boot</artifactId>
+	<artifactId>hello-spring-boot-cloud</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>hello-spring-boot-cloud</name>
-	<description>Hello Spring Boot</description>
+	<description>Hello Spring Boot cloud</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
